@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Nethereum" Version="0.0.2.60" />
+    <PackageReference Include="Nethereum.JsonRpc.RpcClient" Version="3.3.0" />
   </ItemGroup>
 
 </Project>

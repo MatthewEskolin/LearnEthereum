@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EthereumWeb", "..\EthereumWeb\EthereumWeb.csproj", "{7B35CC93-29CE-48E8-AEDE-782CFAD5E22D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console1", "..\Console1\Console1.csproj", "{2E2966F3-7DF8-4CA5-8AE4-3963C9B1ACB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B35CC93-29CE-48E8-AEDE-782CFAD5E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B35CC93-29CE-48E8-AEDE-782CFAD5E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B35CC93-29CE-48E8-AEDE-782CFAD5E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B35CC93-29CE-48E8-AEDE-782CFAD5E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2966F3-7DF8-4CA5-8AE4-3963C9B1ACB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2966F3-7DF8-4CA5-8AE4-3963C9B1ACB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2966F3-7DF8-4CA5-8AE4-3963C9B1ACB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2966F3-7DF8-4CA5-8AE4-3963C9B1ACB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D69A65B-1590-41A1-8705-05CA24A01733}
+	EndGlobalSection
+EndGlobal

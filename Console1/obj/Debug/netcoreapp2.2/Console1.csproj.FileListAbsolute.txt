@@ -1,0 +1,11 @@
+C:\src\EthereumResearch\Console1\bin\Debug\netcoreapp2.2\Console1.deps.json
+C:\src\EthereumResearch\Console1\bin\Debug\netcoreapp2.2\Console1.runtimeconfig.json
+C:\src\EthereumResearch\Console1\bin\Debug\netcoreapp2.2\Console1.runtimeconfig.dev.json
+C:\src\EthereumResearch\Console1\bin\Debug\netcoreapp2.2\Console1.dll
+C:\src\EthereumResearch\Console1\bin\Debug\netcoreapp2.2\Console1.pdb
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.csprojAssemblyReference.cache
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.csproj.CoreCompileInputs.cache
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.AssemblyInfoInputs.cache
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.AssemblyInfo.cs
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.dll
+C:\src\EthereumResearch\Console1\obj\Debug\netcoreapp2.2\Console1.pdb

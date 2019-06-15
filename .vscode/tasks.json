@@ -5,9 +5,21 @@
             "label": "build",
             "command": "dotnet",
             "type": "process",
+            "group": "build",
             "args": [
                 "build",
                 "${workspaceFolder}/EthereumWeb/EthereumWeb.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "build-Consol1e",
+            "command": "dotnet",
+            "type": "process",
+            "group": "build",
+            "args": [
+                "build",
+                "${workspaceFolder}/Console1/Console1.csproj"
             ],
             "problemMatcher": "$tsc"
         },

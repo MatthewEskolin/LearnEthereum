@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\EthereumResearch\\EthereumWeb\\EthereumWeb.csproj": {}
+    "C:\\src\\EthereumResearch\\Console1\\Console1.csproj": {}
   },
   "projects": {
-    "C:\\src\\EthereumResearch\\EthereumWeb\\EthereumWeb.csproj": {
+    "C:\\src\\EthereumResearch\\Console1\\Console1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\EthereumResearch\\EthereumWeb\\EthereumWeb.csproj",
-        "projectName": "EthereumWeb",
-        "projectPath": "C:\\src\\EthereumResearch\\EthereumWeb\\EthereumWeb.csproj",
+        "projectUniqueName": "C:\\src\\EthereumResearch\\Console1\\Console1.csproj",
+        "projectName": "Console1",
+        "projectPath": "C:\\src\\EthereumResearch\\Console1\\Console1.csproj",
         "packagesPath": "C:\\Users\\matte\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\EthereumResearch\\EthereumWeb\\obj\\",
+        "outputPath": "C:\\src\\EthereumResearch\\Console1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,30 +41,19 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
-            "Nethereum": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "nethereum": {
               "target": "Package",
               "version": "[0.0.2.60, )"
-            },
-            "Nethereum.JsonRpc.RpcClient": {
-              "target": "Package",
-              "version": "[3.3.0, )"
             }
           },
           "imports": [

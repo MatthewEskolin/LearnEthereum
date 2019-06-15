@@ -12,6 +12,19 @@ namespace EthereumWeb.Controllers
     {
         public IActionResult Index()
         {
+
+
+            var web3 = new Nethereum.Web3.Web3("http://127.0.0.1:8545");
+
+
+           // web3.Eth.Transactions.GetTransactionReceipt.SendRequestAsync(transactionHash);
+            var result = web3.Eth.Accounts.SendRequestAsync();
+
+
+            var acc = web3.Eth.Accounts;
+
+        
+
             return View();
         }
 
