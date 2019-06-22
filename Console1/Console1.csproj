@@ -6,7 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="nethereum" Version="0.0.2.60" />
+    <None Remove="InteractiveScript.csx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="InteractiveScript.csx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nethereum.Geth" Version="3.3.0" />
+    <PackageReference Include="Nethereum.JsonRpc.RpcClient" Version="3.3.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
   </ItemGroup>
 

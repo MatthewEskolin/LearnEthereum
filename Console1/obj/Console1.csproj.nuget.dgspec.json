@@ -47,13 +47,17 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Nethereum.Geth": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Nethereum.JsonRpc.RpcClient": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
-            },
-            "nethereum": {
-              "target": "Package",
-              "version": "[0.0.2.60, )"
             }
           },
           "imports": [

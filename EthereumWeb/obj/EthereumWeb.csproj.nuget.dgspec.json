@@ -58,9 +58,9 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
-            "Nethereum": {
+            "Nethereum.Geth": {
               "target": "Package",
-              "version": "[0.0.2.60, )"
+              "version": "[3.3.0, )"
             },
             "Nethereum.JsonRpc.RpcClient": {
               "target": "Package",

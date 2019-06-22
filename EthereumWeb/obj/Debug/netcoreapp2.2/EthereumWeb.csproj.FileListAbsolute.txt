@@ -5,7 +5,6 @@ C:\src\EthereumResearch\EthereumWeb\bin\Debug\netcoreapp2.2\EthereumWeb.dll
 C:\src\EthereumResearch\EthereumWeb\bin\Debug\netcoreapp2.2\EthereumWeb.pdb
 C:\src\EthereumResearch\EthereumWeb\bin\Debug\netcoreapp2.2\EthereumWeb.Views.dll
 C:\src\EthereumResearch\EthereumWeb\bin\Debug\netcoreapp2.2\EthereumWeb.Views.pdb
-C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.csprojAssemblyReference.cache
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.csproj.CoreCompileInputs.cache
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.RazorAssemblyInfo.cache
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.RazorAssemblyInfo.cs
@@ -28,3 +27,4 @@ C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.Views.pd
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.dll
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.pdb
 C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.csproj.CopyComplete
+C:\src\EthereumResearch\EthereumWeb\obj\Debug\netcoreapp2.2\EthereumWeb.csprojAssemblyReference.cache
